@@ -1,5 +1,8 @@
 # Current version - v0.2 (June '18)
 
+File is too large for GH releases.  GDrive link : 
+https://drive.google.com/open?id=1T0mRjMQykZ_9Of1IfloBwGFDhoxmX33-
+
 # Project Magpie
 
 Welcome to Project Magpie.  The Project Magpie appliance contains various tools
