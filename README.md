@@ -1,7 +1,6 @@
 # Current version - v0.2 (June '18)
 
-File is too large for GH releases. GDrive link (No Login required) :
-https://drive.google.com/uc?export=download&id=1CbMrOpjKkPRoWlocMusRGzm6chnvzdF5
+File is too large for GH releases. Google Drive link (No Login required) : [Google Drive - Magpie_v0.2.ova](https://drive.google.com/uc?export=download&id=1CbMrOpjKkPRoWlocMusRGzm6chnvzdF5)
 
 # Project Magpie
 
